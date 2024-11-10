@@ -8,3 +8,7 @@ In this SQL project section, I am trying to somehow showcase that I can code SQL
 4. RBMS: I am trying to apply the code on: MySQL, DB Browser and Oracle.
 
 10.11.2024 - database modyfied in MySQL manually.
+
+1. First databse "Employees.csv"
+2. Added manually data in MySQL.
+3. Exported new database as a CSV file "MySQL_employees_data_modified" on 10.11.2024
