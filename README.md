@@ -6,3 +6,5 @@ In this SQL project section, I am trying to somehow showcase that I can code SQL
 2. I will be applying different SQL queries on the databses, and taking screenshots as a "prove" of the code.
 3. As for what queries to write: I took some exercises from different sites and applied them.
 4. RBMS: I am trying to apply the code on: MySQL, DB Browser and Oracle.
+
+10.11.2024 - database modyfied in MySQL manually.
